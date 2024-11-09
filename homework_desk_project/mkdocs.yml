@@ -23,3 +23,5 @@ nav:
     - Search: lab2/search.md
     - Submission: lab2/submission.md
     - Homework: lab2/homeworks.md
+    site_url: https://dinarasaurae.github.io/homework_management_app/
+    use_directory_urls: false
