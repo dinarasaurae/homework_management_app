@@ -1,4 +1,6 @@
 site_name: "dinarasaurae's webdev"
+site_url: 'https://dinarasaurae.github.io/homework_management_app/'
+use_directory_urls: false
 theme:
   name: 'material'
   palette:
