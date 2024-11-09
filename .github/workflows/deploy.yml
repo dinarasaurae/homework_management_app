@@ -26,4 +26,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mkdocs gh-deploy --config-file homework_desk_project/mkdocs.yml --force
+          mkdocs gh-deploy --config-file homework_desk_project/mkdocs.yml --force --remote-branch gh-pages
